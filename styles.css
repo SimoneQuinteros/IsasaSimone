@@ -1,0 +1,9 @@
+.custom-navbar{
+    background-color:rgb(190, 190, 190);
+}
+
+#mensaje {
+    font-size: 30px; /* Aumenta el tamaño del texto */
+    font-weight: bold; /* Opcional: lo hace en negrita */
+    color: #333; /* Opcional: cambia el color del texto */
+}
