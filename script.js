@@ -23,3 +23,4 @@ document.addEventListener('DOMContentLoaded', function () {
     // Asigna el mensaje correspondiente
     mensajeElement.textContent = mensajesPorMes[mesActual];
 });
+
